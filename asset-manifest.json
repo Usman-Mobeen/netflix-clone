@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Usman-Mobeen/netflix-clone.git/static/css/main.08dac248.css",
-    "main.js": "/Usman-Mobeen/netflix-clone.git/static/js/main.2cd62814.js",
-    "static/js/453.1c29ee80.chunk.js": "/Usman-Mobeen/netflix-clone.git/static/js/453.1c29ee80.chunk.js",
-    "static/media/back.jpg": "/Usman-Mobeen/netflix-clone.git/static/media/back.17e1baebe40d0fc95002.jpg",
-    "index.html": "/Usman-Mobeen/netflix-clone.git/index.html",
-    "main.08dac248.css.map": "/Usman-Mobeen/netflix-clone.git/static/css/main.08dac248.css.map",
-    "main.2cd62814.js.map": "/Usman-Mobeen/netflix-clone.git/static/js/main.2cd62814.js.map",
-    "453.1c29ee80.chunk.js.map": "/Usman-Mobeen/netflix-clone.git/static/js/453.1c29ee80.chunk.js.map"
+    "main.css": "/Usman-Mobeen/netflix-clone/static/css/main.c3c154e5.css",
+    "main.js": "/Usman-Mobeen/netflix-clone/static/js/main.39b88dbf.js",
+    "static/js/453.1c29ee80.chunk.js": "/Usman-Mobeen/netflix-clone/static/js/453.1c29ee80.chunk.js",
+    "static/media/back.jpg": "/Usman-Mobeen/netflix-clone/static/media/back.17e1baebe40d0fc95002.jpg",
+    "index.html": "/Usman-Mobeen/netflix-clone/index.html",
+    "main.c3c154e5.css.map": "/Usman-Mobeen/netflix-clone/static/css/main.c3c154e5.css.map",
+    "main.39b88dbf.js.map": "/Usman-Mobeen/netflix-clone/static/js/main.39b88dbf.js.map",
+    "453.1c29ee80.chunk.js.map": "/Usman-Mobeen/netflix-clone/static/js/453.1c29ee80.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.08dac248.css",
-    "static/js/main.2cd62814.js"
+    "static/css/main.c3c154e5.css",
+    "static/js/main.39b88dbf.js"
   ]
 }
