@@ -26,6 +26,7 @@ header{
 
 }
 .sign-in-button{
+  cursor: pointer;
   width: 76px;
   height: 32px;
   background-color: red;
@@ -94,7 +95,7 @@ header{
 
 }
 .headings button{
- 
+  cursor: pointer;
   border-radius: 4px;
   padding: 12px 40px;
   font-size: 24px;
@@ -254,6 +255,7 @@ header{
   border-radius: 4px;
 }
 .submit{
+    cursor: pointer;
     border-radius: 4px;
     padding: 12px 40px;
     font-size: 24px;
